@@ -8,5 +8,7 @@ Até o momento foi aprendido como realizar a criação de da conta no Microsoft 
   Podemos criar máquinas virtuais atrávés do menu, na opção Máquinas Virtuais.
   Pode ser criado em uma ou várias zonas de disponibilidade, somente local ou em regiões diferentes. Quando mais opções vão impactar nos valores cobrados e também no tempo de SLA. Quanto mais recurso, menos o tempo de SLA pelo fato dos dados estarem replicados e mais de um local diferente.
 
+- Laboratório de criação de novo Banco de Dados
 
+  podemos criar uma nova instância de banco de dados sem a necessidade de nos preocuparmos com a infra estrutura por trás. Precisamos nos preocupar somente com a assinatura e com as configurações de sosso software criado como SOFTWARE AS A SERVICE (SAAS).
 
